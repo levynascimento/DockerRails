@@ -1,4 +1,4 @@
-# Aplicação Rails com melhores práticas de Docker <img src="public/image.png" width="40"/>
+# Aplicação Rails com melhores práticas de Docker <img src="public/image.png" width="40" style="margin-bottom: -10px"/>
 
 ### O foco não é a aplicação rails, mas sim aprender a usar docker da melhor forma.
 
