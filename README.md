@@ -12,10 +12,10 @@
 - [x] Criar Dockerfile para development.
 - [x] Criar docker-compose para auxiliar no ambiente de desenvolvimento.
 - [x] Criar entrypoint para criar banco de dados e fazer migrations junto com o build da imagem.
-- [] Criar Dockerfile multistage para production, pra que a imagem fique menor.
-- [] Subir a aplicação numa EC2 
-- [] Configurar um container para nginx
-- [] Subir certificado SSL
-- [] Criar script em GO que crie uma cron no servidor para ficar fazendo backup do banco e mandar para um S3 da AWS.
-- [] Subir todos esses serviços AWS com terraform.
-- [] Criar pipeline com actions do github.
+- [ ] Criar Dockerfile multistage para production, pra que a imagem fique menor.
+- [ ] Subir a aplicação numa EC2 
+- [ ] Configurar um container para nginx
+- [ ] Subir certificado SSL
+- [ ] Criar script em GO que crie uma cron no servidor para ficar fazendo backup do banco e mandar para um S3 da AWS.
+- [ ] Subir todos esses serviços AWS com terraform.
+- [ ] Criar pipeline com actions do github.
